@@ -2,6 +2,7 @@
 --also dont ask me for help
 --get ready for some messy code <3
 --if you cant read it dont use it, simple
+--discord.com/invite/4DFEgkf2Qp on top
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psxscripter1337/dfvswvds/main/uwuwu.lua"))()
 
 if _G.UserName == nil or _G.UserName == "" then
