@@ -1,4 +1,4 @@
-
+--this src is broken fix it urself skids i have no motivation to update it
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psxscripter1337/dfvswvds/main/uwuwu.lua"))()
 
 if _G.UserName == nil or _G.UserName == "" then
